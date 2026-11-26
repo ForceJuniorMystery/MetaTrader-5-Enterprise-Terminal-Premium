@@ -1,0 +1,23 @@
+{
+  "repo": "metatrader-5-enterprise-terminal-premium",
+  "product": "MetaTrader 5 Enterprise Terminal Premium",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "metatrader-5-terminal",
+    "metatrader-5",
+    "metatrader-5-5",
+    "how-to-install-metatrader-5",
+    "how-to-setup-metatrader-5",
+    "desktop-package",
+    "windows-11",
+    "windows-10",
+    "metatrader-terminal"
+  ],
+  "site": "unaflore.co",
+  "product_title": "MetaTrader 5 Enterprise Terminal Premium"
+}
